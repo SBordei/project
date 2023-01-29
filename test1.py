@@ -1,9 +1,9 @@
-x = 500
+x = 300
 
 
 def func(x):
     x += 10
     return x
 
-print(func(x=500))
+print(func(x=x))
 
